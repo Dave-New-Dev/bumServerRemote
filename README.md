@@ -8,4 +8,4 @@ This is only the transmitting/outgoing side of the remote, not the receiving/inc
 
 #### This project is licensed under the MIT license
 
-(Resuming updates after 2025-01-23, 2:50pm (EST / UTC -5))
+(Quick note: Resuming updates after 2025-01-23, 2:50pm (EST / UTC -5))
